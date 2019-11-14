@@ -100,7 +100,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 |pair_or_odd_numeral_character|
 |:----|
-|Write a function which **returns 0** if the number given as parameter is pair and **return 1** if it is odd​.
+|Write a function which **returns 0** if the number given as parameter is pair and **return 1** if it is odd.
 |**return -1** if the number in not included between (0-9).
 |
 |FOLDER     :   ex_02
@@ -116,7 +116,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 ####Exercise 3)
 
-|my_show_missing_alphanumeric​|
+|my_show_missing_alphanumeric|
 |:----|
 |Write a program when it will find a lowercase letter in the given parameter, will display **"all lowercase letter"** which ain't in the parameter. 
 |It will do the same with uppercase letter and number.
@@ -126,7 +126,7 @@ Take 5 min to check everything is going to be ok before pushing.
 |FOLDER     :   ex_03
 |BINARY NAME:   ex_03
 |
-|NAME       :   my_show_missing_alphanumeric​
+|NAME       :   my_show_missing_alphanumeric
 |PARAMETER  :   string
 |RETURN     :   nothing
 
@@ -136,7 +136,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 |my_number_of_occurrence|
 |:----|
-|Write a program which returns the number of occurrence of the parameter 1 in the parameter 2 given. 
+|Write a program which returns the number of occurrence to each character of the first parameter in the second parameter. 
 |
 |FOLDER     :   ex_04
 |BINARY NAME:   ex_04
@@ -150,7 +150,7 @@ Take 5 min to check everything is going to be ok before pushing.
 
 |my_count_char|
 |:----|
-|Write a function which returns the number of address in the parameter given. 
+|Write a function which returns the number of address in the parameter given.
 |
 |FOLDER     :   ex_05
 |BINARY NAME:
