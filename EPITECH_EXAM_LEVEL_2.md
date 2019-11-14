@@ -1,5 +1,11 @@
 #EPITECH EXAM LEVEL 2
 
+# REPOSITORY_NAME: epitech_machine_2_2019
+# RIGHTS:
+  - mackendy-pierre.anselin@epitech.eu
+  - edouard1.loustau@epitech.eu
+  - maxime1.jenny@epitech.eu
+
 |**RULES**|
 |:--------|
 | - NO INTERNET FOR THE SECOND PART
